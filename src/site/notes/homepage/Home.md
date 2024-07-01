@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"ture","permalink":"/homepage/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"ture","permalink":"/homepage/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-07-01T15:17:33.947+08:00"}
 ---
 
 目前正在进展的两个讨论班：
