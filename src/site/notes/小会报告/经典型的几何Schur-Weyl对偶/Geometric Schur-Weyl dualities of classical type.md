@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/小会报告/经典型的几何Schur-Weyl对偶/Geometric Schur-Weyl dualities of classical type/","dgPassFrontmatter":true,"created":"2024-07-16T17:59:38.620+08:00","updated":"2024-07-16T22:15:35.860+08:00"}
+{"dg-publish":true,"permalink":"/小会报告/经典型的几何Schur-Weyl对偶/Geometric Schur-Weyl dualities of classical type/","dgPassFrontmatter":true,"created":"2024-07-16T17:59:38.620+08:00","updated":"2024-07-18T19:51:01.379+08:00"}
 ---
 
 
