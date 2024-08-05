@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"ture","permalink":"/HOME/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-07-14T22:22:45.519+08:00"}
+{"dg-publish":true,"dg-home":"ture","permalink":"/HOME/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-05T09:11:35.783+08:00"}
 ---
 
 <font size="7"> **欢迎来到lovealgebra**</font> ![../attachment/480.gif](/img/user/attachment/480.gif)
@@ -17,7 +17,7 @@
 + [[Books/同调代数\|同调代数]]
 
 其它用得到的工具:
-+ [[Books/范畴论中若干基本概念和结论/范畴论中若干基本概念和结论\|范畴论中若干基本概念和结论]]
++ [[../Books/三角范畴与导出范畴/ⅩⅡ. 范畴论中若干基本概念和结论/范畴论中若干基本概念和结论\|范畴论中若干基本概念和结论]]
 + [[Books/基础代数学讲义/基础代数学讲义\|基础代数学讲义]]
 + [[Books/环与模范畴/环与模范畴\|环与模范畴]]
 + [[Books/有限维代数\|有限维代数]]
