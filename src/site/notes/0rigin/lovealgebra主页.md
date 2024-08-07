@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"ture","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-06T20:38:00.292+08:00"}
+{"dg-publish":true,"dg-home":"ture","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-07T13:22:06.155+08:00"}
 ---
 
 <font size="7"> **欢迎来到lovealgebra**</font> ![../attachment/480.gif](/img/user/attachment/480.gif)
@@ -19,5 +19,5 @@
 其它用得到的工具:
 + [[0rigin/基础代数学讲义\|基础代数学讲义]]
 + [[0rigin/环与模范畴\|环与模范畴]]
-+ [[Books/有限维代数/有限维代数\|有限维代数]]
++ [[0rigin/有限维代数\|有限维代数]]
 
