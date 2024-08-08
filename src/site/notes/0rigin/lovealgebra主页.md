@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"ture","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-07T13:22:06.155+08:00"}
+{"dg-publish":true,"dg-home":"ture","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-08T11:08:34.722+08:00"}
 ---
 
 <font size="7"> **欢迎来到lovealgebra**</font> ![../attachment/480.gif](/img/user/attachment/480.gif)
@@ -14,7 +14,6 @@
 已经结课但是学得不好且**有待补充**(用到相关概念但是忘了的时候会去补充)的几门课：
 + [[Books/高等代数\|高等代数]]
 + [[Books/近世代数\|近世代数]]
-+ [[Books/同调代数\|同调代数]]
 
 其它用得到的工具:
 + [[0rigin/基础代数学讲义\|基础代数学讲义]]
