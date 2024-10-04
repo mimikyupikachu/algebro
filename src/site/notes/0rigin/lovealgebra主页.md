@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-08-26T19:31:40.769+08:00"}
+{"dg-publish":true,"dg-home":"true","permalink":"/0rigin/lovealgebra主页/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-07-01T12:19:00.659+08:00","updated":"2024-10-04T16:39:12.619+08:00"}
 ---
 
 <font size="7"> **欢迎来到lovealgebra**</font> ![../attachment/480.gif](/img/user/attachment/480.gif)
 
+---
+2024.9: 本网站停止更新, 只在本地进行更新. 如有需要请联系我.
+
+---
 
 **特别强调：本站只是方便信息检索，完全没有导学作用，顶多用作学后复习，看看知识点是不是都了然于心。**
 
@@ -19,4 +23,3 @@
 + [[0rigin/基础代数学讲义\|基础代数学讲义]]
 + [[0rigin/环与模范畴\|环与模范畴]]
 + [[0rigin/有限维代数\|有限维代数]]
-
