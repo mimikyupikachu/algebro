@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/常用概念/t- 结构/","dgPassFrontmatter":true,"created":"2024-10-21T08:00:44.856+08:00","updated":"2024-10-22T14:11:31.480+08:00"}
+{"dg-publish":true,"permalink":"/常用概念/t- 结构/","dgPassFrontmatter":true,"created":"2024-10-21T08:00:44.856+08:00","updated":"2024-10-25T08:19:34.688+08:00"}
 ---
 
  $t$- 结构: 三角范畴 $\mathcal{D}$ 上的 $t$- 结构是指 $(\mathcal{D}^{\leqslant0},\mathcal{D}^{\geqslant0})$. 满足如下条件:
@@ -9,3 +9,5 @@ $\qquad$ ②  $\mathcal{D}^{\leqslant0}\subseteq \mathcal{D}^{\leqslant1}$, 即 
 $\qquad$ ③ 对 $\forall X \in \mathcal{D}$, 存在好三角 $A \rightarrow X \rightarrow B \rightarrow A[1]$. 其中 $A \in \mathcal{D}^{\leqslant0}$,  $B \in \mathcal{D}^{\geqslant1}$.
 
  $t$- 结构的心 the heart of the t-structure.  $\mathcal{H}:=\mathcal{D}^{\leqslant0} \cap \mathcal{D}^{\geqslant0}$. 是一个阿贝尔范畴. 
+
+![[../研二-方向选择/文献综述/第六周/document.pdf]]
